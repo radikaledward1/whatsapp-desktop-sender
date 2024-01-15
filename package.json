@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-desktop-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/script.js contacts.xlsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radikaledward1/whatsapp-desktop-sender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radikaledward1/whatsapp-desktop-sender/issues"
+  },
+  "homepage": "https://github.com/radikaledward1/whatsapp-desktop-sender#readme",
+  "dependencies": {
+    "open": "^10.0.3",
+    "xlsx": "^0.18.5"
+  }
+}
